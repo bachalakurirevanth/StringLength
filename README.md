@@ -1,0 +1,2 @@
+# StringLength
+. Find its length.   
